@@ -2,7 +2,7 @@
 
 This is a simple desktop application for managing a small library system, built using Python. It features a graphical user interface (GUI) created with Tkinter, and uses SQLite3 for local data storage. The app allows users to add, update, delete, and search for books through a user-friendly interface.
 
-# ✨ Key Features
+## ✨ Key Features
 
 ● Add new books with details such as title, author, subject, and publication year
 
@@ -14,7 +14,7 @@ This is a simple desktop application for managing a small library system, built 
 
 ● Clean and intuitive GUI for ease of use
 
-# 💡 Technologies Used
+## 💡 Technologies Used
 
 ● Python 3 – main programming language
 
@@ -22,7 +22,7 @@ This is a simple desktop application for managing a small library system, built 
 
 ● SQLite3 – for local database storage
 
-# 🚀 How to Run
+## 🚀 How to Run
 
 1. Make sure Python 3 is installed on your system.
 
@@ -32,7 +32,7 @@ This is a simple desktop application for managing a small library system, built 
 
 4. Use the buttons and forms to manage books in the library.
 
-# 📌 Notes
+## 📌 Notes
 
 ● All data is saved locally using SQLite and remains available even after the app is closed.
 
@@ -40,6 +40,6 @@ This is a simple desktop application for managing a small library system, built 
 
 ● Possible future features include user accounts, book lending/return system, and reporting tools.
 
-# 🤝 Contributions
+## 🤝 Contributions
 
 Suggestions and contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to help improve this project.
